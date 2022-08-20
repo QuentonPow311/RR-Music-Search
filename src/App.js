@@ -1,6 +1,6 @@
 import {useEffect, useState } from 'react'
 import Gallery from './components/Gallery'
-import SearchBar from './components/SearchBar'
+import SearchBar from './components/Searchbar'
 import { DataContext } from './context/DataContext'
 
 function App() {
